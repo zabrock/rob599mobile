@@ -1,0 +1,8 @@
+prefix=/home/zabrock/rob599_ws/devel
+
+Name: husky_msgs
+Description: Description of husky_msgs
+Version: 0.3.3
+Cflags: -I/home/zabrock/rob599_ws/devel/include
+Libs: -L/home/zabrock/rob599_ws/devel/lib 
+Requires: std_msgs message_runtime

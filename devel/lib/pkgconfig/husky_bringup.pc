@@ -1,0 +1,8 @@
+prefix=/home/zabrock/rob599_ws/devel
+
+Name: husky_bringup
+Description: Description of husky_bringup
+Version: 0.3.3
+Cflags: 
+Libs: -L/home/zabrock/rob599_ws/devel/lib 
+Requires: 
