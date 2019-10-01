@@ -1,8 +1,0 @@
-prefix=/home/zabrock/rob599_ws/devel
-
-Name: homework2
-Description: Description of homework2
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/zabrock/rob599_ws/devel/lib 
-Requires: 

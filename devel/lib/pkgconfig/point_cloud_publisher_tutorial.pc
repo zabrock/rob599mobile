@@ -1,8 +1,0 @@
-prefix=/home/zabrock/rob599_ws/devel
-
-Name: point_cloud_publisher_tutorial
-Description: Description of point_cloud_publisher_tutorial
-Version: 0.2.3
-Cflags: 
-Libs: -L/home/zabrock/rob599_ws/devel/lib 
-Requires: 

@@ -1,8 +1,0 @@
-prefix=/home/zabrock/rob599_ws/devel
-
-Name: husky_control
-Description: Description of husky_control
-Version: 0.3.3
-Cflags: 
-Libs: -L/home/zabrock/rob599_ws/devel/lib 
-Requires: 
